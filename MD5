@@ -1,0 +1,17 @@
+664d21f36d927fb0475b8bd264670fb1 *DESCRIPTION
+8885b367c1586e8c05ca7f6682f849ef *LICENSE
+a925ec1e8f442d634818786dfd34f291 *NAMESPACE
+91fd8df88568ed6daca5758fceefa04e *R/OLS.R
+9e49cafa6c8951f6b44f935442c55e8c *R/bias_correction.R
+25b0011671aee48c7c2bf20ad88f08eb *R/estimation.R
+1fd64d8501e074d1cb25f420e9a9aa53 *R/initialization.R
+a48431d814cbfca21141e0d36bd5ff87 *R/s3_methods.R
+16e7b01ddce66f9fc8b0130fcdad1939 *R/tmb_likelihood.R
+388d96bd9f1be19da7d30e007ae6d9e9 *R/zzz.R
+d2a703ab12696846f73055b84969baf2 *README.md
+4ef264312933725c07cfe20bac11e00e *man/ols.Rd
+e7ed98e15fdd0f875b7fbb7dd92442cd *man/ols_bca.Rd
+f23ee920f09e94f6e54ff38fcdadf030 *man/ols_bcm.Rd
+7d9c066ff093a3a621a001f0080111b0 *man/one_step.Rd
+0a98821522dd25043c20155aedff870f *src/Makevars
+8229706348cd48fb0b99c99524761ef8 *src/likelihood_unlabeled.cpp

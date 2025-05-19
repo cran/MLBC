@@ -1,0 +1,19 @@
+Package: MLBC
+Version: 0.1.0
+Title: Bias Correction Methods for Models Using Synthetic Data
+Authors@R: c(person("Konrad", "Kurczynski", role = c("aut","cre"), email="konrad.kurczynski@yale.edu"),
+      person("Timothy", "Christensen", role = "aut", email="timothy.christensen@yale.edu"))
+Description: Implements three bias-correction techniques (additive bias correction, multiplicative bias correction, and one-step estimation via Template Model Builder (TMB)) based on Battaglia et al. (2025 <doi:10.48550/arXiv.2402.15585>) to improve inference using synthetic data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports: TMB
+LinkingTo: TMB, RcppEigen
+Suggests: roxygen2
+NeedsCompilation: yes
+Packaged: 2025-05-14 16:31:37 UTC; konradkurczynski
+Author: Konrad Kurczynski [aut, cre],
+  Timothy Christensen [aut]
+Maintainer: Konrad Kurczynski <konrad.kurczynski@yale.edu>
+Repository: CRAN
+Date/Publication: 2025-05-19 09:00:02 UTC
